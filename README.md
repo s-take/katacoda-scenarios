@@ -1,10 +1,20 @@
-# Interactive Katacoda Scenarios
+# katacoda
 
-[![](http://shields.katacoda.com/katacoda/s-take/count.svg)](https://www.katacoda.com/s-take "Get your profile on Katacoda.com")
+https://www.katacoda.com/s-take
 
-Visit https://www.katacoda.com/s-take to view the profile and interactive scenarios
+## 作成まで
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
+コース作成
+```
+katacoda courses:create
+```
 
-For examples, visit https://github.com/katacoda/scenario-example
+シナリオ作成
+```
+katacoda scenarios:create
+```
+
+コースとシナリオ紐付け
+```
+katacoda courses:add:scenarios
+```

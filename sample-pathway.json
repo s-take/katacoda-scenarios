@@ -1,0 +1,11 @@
+{
+  "title": "コースサンプル",
+  "description": "katacodaコースサンプル",
+  "courses": [
+    {
+      "course_id": "SS1",
+      "title": "Sample Scenario 1",
+      "description": "1"
+    }
+  ]
+}
